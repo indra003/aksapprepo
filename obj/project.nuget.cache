@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "43N8z34H4DgyRcJcSJQ2SCM+8OJKQInW4DOGJf4oNf96V9RByDlD3jD1OkAZhCuhOPNEmjEzdJK0Wj0KxldfSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imondal\\sampleproject\\aksapp\\aksapp\\aksapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imondal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
